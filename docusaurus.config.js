@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Next Stax Docs',
   tagline: '',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://21-documentation.vce.oneclickwebapps.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
