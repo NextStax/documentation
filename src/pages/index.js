@@ -30,8 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
-      style={{alignItems: 'stretch'}}>
+      description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       {/* <main>
         <HomepageFeatures />
