@@ -10,16 +10,16 @@ Let us know if you have any requests! [🤓 Github Discussions](https://github.c
 
 To-do:
 
-- [ ] 3D Asset Standards
-  - File format
-  - Scale + Position
-  - Lights
+- 3D Asset Standards
+  - [ ] File format
+  - [ ] Scale + Position
+  - [ ] Lights
 
+<br />
 
-
-- [ ] Three.js + React Three Fiber
-  - Cameras
-  - Lighting + Shadows
-  - Materials + Textures
-  - Animations
-  - Controls
+- Three.js + React Three Fiber
+  - [ ] Cameras
+  - [ ] Lighting + Shadows
+  - [ ] Materials + Textures
+  - [ ] Animations
+  - [ ] Controls
