@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Next Stax Docs',
+  title: 'NextStax Docs',
   tagline: '',
   url: 'https://21-documentation.vce.oneclickwebapps.com/',
   baseUrl: '/',
@@ -41,9 +41,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Next Stax Docs',
+        title: 'NextStax Docs',
         logo: {
-          alt: 'Next Stax Logo',
+          alt: 'NextStax Logo',
           src: 'img/logo.png',
         },
         items: [
