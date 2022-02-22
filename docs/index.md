@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Intro (WIP)
@@ -10,14 +10,14 @@ We are working hard to make this documentation as comprehensive as possible, and
 
 To-do:
 
-  - [ ] Content Guidelines & Exporting Assets
-    - file format
-    - scale + position
-    - lights
-    - animations
-  - [ ] Camera
-    - controls
-    - fov
-    - near/far
-    - perspective/orthographic
-  - [ ] Lighting & Shadows
+-   [ ] Content Guidelines & Exporting Assets
+    -   file format
+    -   scale + position
+    -   lights
+    -   animations
+-   [ ] Camera
+    -   controls
+    -   fov
+    -   near/far
+    -   perspective/orthographic
+-   [ ] Lighting & Shadows
